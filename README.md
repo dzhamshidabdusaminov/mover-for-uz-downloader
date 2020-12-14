@@ -10,7 +10,7 @@ Mover.uz video downloader for downloading video files from mover.uz(originally i
 # Preview
 [Link to netlify](https://dazzling-bhaskara-3905b9.netlify.app/)
 # Screenshot
-![Screenshot of main page](https://dazzling-bhaskara-3905b9.netlify.app/screenshot.jpg)
+![Screenshot of main page](https://dazzling-bhaskara-3905b9.netlify.app/screenshot.png)
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install all needed dependencies. First clone or copy this repository and install all necessary dependencies by entering this code. and use npm start to build the project in the development mode
